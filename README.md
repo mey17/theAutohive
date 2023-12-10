@@ -67,7 +67,5 @@ Detailed documentation, including code explanations and project insights, can be
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and suggestions are highly valued.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
