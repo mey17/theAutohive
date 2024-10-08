@@ -1,4 +1,6 @@
 # Autohive - Smart Parking System
+Creator - Maria Vardanyan
+The full documentation you can see in https://github.com/mey17/theAutohive/blob/main/MariaVardanyanProjectS1.pdf
 
 Welcome to Autohive, an Arduino-based smart parking system using ultrasonic sensors and servo motors. This project aims to provide a solution for efficient and automated parking space management.
 
